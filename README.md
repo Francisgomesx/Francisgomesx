@@ -3,7 +3,9 @@
 
 ### 📊 Stats
 ![Francisgomesx's GitHub stats](https://github-readme-stats.vercel.app/api?username=Francisgomesx&show_icons=true&theme=graywhite)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Francisgomesx&layout=compact)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Francisgomesx&layout=compact&theme=graywhite)
+
 ---
 
 ### </> Languages (learning)
