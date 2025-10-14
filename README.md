@@ -1,6 +1,6 @@
 <div align="center">
 
-## Hi there I'm Francisco Gomes👋
+## Hi there I'm Francisco Gomes and I'm a student at ISEP👋
 
 </div>
 
