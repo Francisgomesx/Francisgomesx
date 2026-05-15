@@ -18,14 +18,14 @@
 
 <div align="center">
 
-  ![Francisgomesx's GitHub stats](https://github-readme-stats.vercel.app/api?username=Francisgomesx&show_icons=true&theme=moltack)
+  ![Francisgomesx's GitHub stats](https://github-readme-stats.vercel.app/api?username=Francisgomesx&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 </div>
 
 <br>
 
 <div align="center">
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Francisgomesx&layout=compact&theme=moltack)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Francisgomesx)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
