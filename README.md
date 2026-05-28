@@ -18,14 +18,7 @@
 
 <div align="center">
 
-  ![Francisgomesx's GitHub stats](https://github-readme-stats.vercel.app/api?username=Francisgomesx&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-</div>
-
-<br>
-
-<div align="center">
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Francisgomesx)](https://github.com/anuraghazra/github-readme-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=Francisgomesx&theme=hacker&border_radius=5)](https://git.io/streak-stats)
 
 <br>
 
