@@ -1,40 +1,27 @@
 <div align="center">
 
-## Hi there I'm Francisco Gomes and I'm a student at ISEP👋
+# Francisco Gomes
+
+Estudante de Licenciatura em Engenharia Informática · [ISEP](https://www.isep.ipp.pt) · Porto
 
 </div>
 
-<br>
+---
 
-<div align="center">
-  
-## 📊 Stats
+## Sobre mim
 
-<br>
+Estudante de Engenharia Informática, a consolidar bases em programação, estruturas de dados e sistemas. Gosto de código limpo, testes e de perceber como as coisas funcionam por baixo.
 
-</div>
+## A aprender / a usar
 
-<br>
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,html,bash,linux,git,maven&perline=7" alt="Tecnologias" />
+</p>
 
-<div align="center">
+## Repositórios
 
-  [![GitHub Streak](https://streak-stats.demolab.com?user=Francisgomesx&theme=hacker&border_radius=5)](https://git.io/streak-stats)
+| Repositório | Descrição |
+| --- | --- |
+| [University](https://github.com/Francisgomesx/University) | Exercícios e trabalhos pessoais de estudo |
 
-<br>
-
-## </> Learning / Tools in Use </>
-
-<br>
-
-  <img align="center" alt="Java" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-  <img align="center" alt="Python" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img align="center" alt="Html5" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-  <img align="center" alt="Bash" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
-  <img align="center" alt="Bash" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-  <img align="center" alt="Bash" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-  <img align="center" alt="Bash" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" />
-          
-          
-<br>
-
-</div>
+> Nota: os trabalhos com avaliação em curso não são publicados aqui, de acordo com as regras de integridade académica do ISEP.
