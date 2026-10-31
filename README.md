@@ -1,6 +1,6 @@
 <div align="center">
 
-# Francisco Gomes
+# Francisgomesx
 
 Estudante de Engenharia Informática · [ISEP](https://www.isep.ipp.pt) · Porto 🇵🇹
 
@@ -35,6 +35,6 @@ Mais sobre estes projetos no [**Portfolio**](https://github.com/Francisss9/Portf
 
 <div align="center">
 
-*Francisco Gomes · Porto*
+*Francisgomesx · Porto*
 
 </div>
