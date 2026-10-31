@@ -12,19 +12,7 @@ Estudante de Engenharia Informática · [ISEP](https://www.isep.ipp.pt) · Porto
 
 ## 🎓 No ISEP
 
-Estou na Licenciatura em Engenharia Informática (LEI). Guardo aqui, num arquivo público, exercícios e projetos das unidades curriculares, sobretudo em Java.
-
-| Ano | UC | O que tem | Stack |
-| --- | --- | --- | --- |
-| 1 | APROG | Exercícios semanais e projeto final | Java |
-| 1 | PPROG | Programação orientada a objetos, exceções, JavaFX | Java, Maven, JUnit |
-| 1 | LAPR1 | Projeto em equipa: estabilização de matrizes e heatmaps | Java |
-| 1 | PRCMP | Shell scripting | Bash |
-| 1 | ESTAT | Notebooks de estatística | Python, Jupyter |
-
-➡️ Código em [**University**](https://github.com/Francisgomesx/University).
-
-> Só publico trabalho já entregue e avaliado. Se estás a fazer a mesma UC, usa isto para comparar ideias, não para copiar: o ISEP trata plágio a sério, e com razão.
+Estou na Licenciatura em Engenharia Informática (LEI), a construir bases sólidas em programação, estruturas de dados e sistemas.
 
 ## 🛠️ Stack
 
