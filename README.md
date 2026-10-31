@@ -22,7 +22,7 @@ Estou na Licenciatura em Engenharia Informática (LEI), a construir bases sólid
 
 ## 🏎️ Fora da faculdade
 
-Além do curso, faço software para o setor automóvel, e é aí que está a minha marca:
+Além do curso, faço SaaS, e é aí que está a minha marca:
 
 | Projeto | O quê |
 | --- | --- |
