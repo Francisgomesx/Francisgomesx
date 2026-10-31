@@ -27,7 +27,7 @@ Além do curso, faço SaaS, e é aí que está a minha marca:
 | Projeto | O quê |
 | --- | --- |
 | [**Kota**](https://kota.francisgomesx.dev) | Orçamentos de oficina em PDF, funciona sem net |
-| [**Rasto**](https://rasto.francisgomesx.dev) | Gestão de stock e site para stands de usados |
+| [**Rasto**](https://rasto.francisgomesx.dev) | Gestão de stock para stands |
 
 Mais sobre estes projetos no [**Portfolio**](https://github.com/Francisss9/Portfolio).
 
